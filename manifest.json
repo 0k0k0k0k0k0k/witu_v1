@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "metadata": {
+    "appmode": "shiny"
+  },
+  "packages": [
+    { "package": "shiny" },
+    { "package": "leaflet" },
+    { "package": "sf" },
+    { "package": "data.table" }
+  ]
+}
