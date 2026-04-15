@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "locale": "en_US",
+  "platform": "shiny",
+  "metadata": {
+    "appmode": "shiny"
+  },
+  "files": {
+    "app.R": {
+      "checksum": ""
+    }
+  }
+}
